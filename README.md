@@ -32,3 +32,5 @@ Verification and Issues
 The program was tested by white box testing, and it works well when the person who uses it answers all questions correctly. It cannot cope with incorrect input, however. If someone answers a question in a way that is not defined in the code, the program will report an error because the variables concerned will not be defined.  For instance, if a person wants to answer a question with Yes, the correct answer is “yes”. If that person enters “Yes” instead of “yes”, the program will report an error.  
 
 2024-01-03/Th. Theresa Kieselbach
+
+PS The project was cloned to a local forlder on 3 January 2024.
